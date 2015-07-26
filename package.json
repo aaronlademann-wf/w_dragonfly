@@ -1,5 +1,9 @@
 {
   "name": "w_uip_cavendish",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aaronlademann-wf/w_uip_cavendish.git"
+  },
   "version": "0.0.1",
   "dependencies": {
     "async": "^0.9.0",
