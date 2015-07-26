@@ -1,6 +1,6 @@
 {
-  "name": "webdrivercss-adminpanel",
-  "version": "0.0.0",
+  "name": "w_uip_cavendish",
+  "version": "0.0.1",
   "dependencies": {
     "angular": ">=1.2.*",
     "json3": "~3.2.6",
