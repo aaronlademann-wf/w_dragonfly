@@ -1,6 +1,6 @@
-# Cavendish
+# Dragonfly
 
-> __WebdriverCSS Admin Panel for the UI Platform Team__
+> __WebdriverCSS Admin Panel for Web Skin__
 
 This repository serves as a centralized location for all __image-based regression tests__ for [Web Skin](https://github.com/Workiva/web-skin/), and [Web Skin Dart](https://github.com/Workiva/web_skin_dart/).
 

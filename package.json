@@ -1,8 +1,8 @@
 {
-  "name": "w_uip_cavendish",
+  "name": "w_dragonfly",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aaronlademann-wf/w_uip_cavendish.git"
+    "url": "https://github.com/aaronlademann-wf/w_dragonfly.git"
   },
   "version": "0.0.1",
   "dependencies": {
